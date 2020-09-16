@@ -1,0 +1,10 @@
+name: radio-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - mw_plot
+  - astropy
+  
