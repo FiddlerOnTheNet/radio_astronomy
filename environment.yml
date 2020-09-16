@@ -2,9 +2,11 @@ name: radio-environment
 channels:
   - conda-forge
 dependencies:
+  - python>=3.6
   - numpy
   - matplotlib
   - scipy
   - astropy
   - pip
+  - pip:
     - mw_plot
